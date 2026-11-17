@@ -101,16 +101,6 @@ Poderão ser consultados:
 - Empresas e instituições ligadas ao setor pesquisado.
 - Reportagens de veículos de comunicação confiáveis.
 
-### Fontes recomendadas para iniciar a pesquisa
-
-- [EMBRAPA](https://www.embrapa.br)
-- [IBGE](https://www.ibge.gov.br)
-- [IPEA](https://www.ipea.gov.br)
-- [SENAI](https://www.portaldaindustria.com.br/senai/)
-- [FINEP](https://www.finep.gov.br)
-- [CNPq](https://www.gov.br/cnpq)
-- [SciELO](https://www.scielo.br)
-
 As referências deverão conter, sempre que possível, autor ou instituição responsável, título do material, endereço eletrônico e data de acesso.
 
 ## 7. Critérios de avaliação
