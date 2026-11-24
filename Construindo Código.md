@@ -65,7 +65,7 @@ completa tradicional. Porém, com suas extensões e ferramentas, oferece
 muitos recursos de um ambiente de desenvolvimento.
 
 ![Visual Studio
-Code]([https://code.visualstudio.com/assets/images/code-stable.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoffYpdb9Xg0YztJA3tLe8-YliSZXxZX47lW_xOIZsnQ&s=10))
+Code](https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmESvWFqgy6FNrwzWSIu2lzePyWSz8zg09RAX43OFexidzEE3_7l3auaKk4w9ktJdqg-&format=source)
 
 ### Conhecendo o VS Code
 
