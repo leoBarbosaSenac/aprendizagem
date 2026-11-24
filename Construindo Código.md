@@ -56,7 +56,6 @@ pode oferecer:
 
 ## Vamos utilizar o Visual Studio Code
 
-<https://code.visualstudio.com/>
 
 O **Visual Studio Code**, também conhecido como **VS Code**, é um editor
 de código muito utilizado por profissionais de desenvolvimento.
@@ -66,7 +65,7 @@ completa tradicional. Porém, com suas extensões e ferramentas, oferece
 muitos recursos de um ambiente de desenvolvimento.
 
 ![Visual Studio
-Code](https://code.visualstudio.com/assets/images/code-stable.png)
+Code]([https://code.visualstudio.com/assets/images/code-stable.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoffYpdb9Xg0YztJA3tLe8-YliSZXxZX47lW_xOIZsnQ&s=10))
 
 ### Conhecendo o VS Code
 
