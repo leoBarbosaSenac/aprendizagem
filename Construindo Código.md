@@ -1,17 +1,4 @@
 # Primeira aula: Introdução à programação, VS Code e HTML
-
-## Objetivos da aula
-
-Ao final desta aula, você deverá ser capaz de:
-
--   Explicar, com suas palavras, o que é programação.
--   Entender para que serve um editor de código, como o Visual Studio
-    Code.
--   Diferenciar HTML de CSS.
--   Criar um arquivo HTML no VS Code.
--   Reconhecer a estrutura básica de uma página HTML.
--   Utilizar algumas das principais tags para organizar conteúdos.
-
 ------------------------------------------------------------------------
 
 # 1. O que é programação?
